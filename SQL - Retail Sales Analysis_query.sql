@@ -23,7 +23,7 @@ limit 10;
 
 -- data cleaning
 
-select * Retail_Sales
+select * from Retail_Sales
 where transactions_id is null or sale_date is null or gender is null or age is null or category is null
 or quantity is null or price_per_unit is null or cogs is null or total_Sale is null 
 

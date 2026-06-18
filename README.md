@@ -3,7 +3,7 @@ Project Overview
 
 Project Title: Retail Sales Analysis
 
-Level: Beginner
+Level: Beginner 
 
 Database: sql_project
 

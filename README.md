@@ -15,7 +15,7 @@ Objectives Set up a retail sales database: Create and populate a retail sales da
 ```sql
 create database sql_project ;
 use sql_project;
---inserted the values
+--inserted the values in table
 create table Retail_Sales
              (
                  transactions_id int primary key,
